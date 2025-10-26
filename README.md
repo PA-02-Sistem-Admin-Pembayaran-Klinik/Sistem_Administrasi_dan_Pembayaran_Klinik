@@ -62,16 +62,19 @@ Seperti contoh diatas hanya mengedit bagian biaya saja.
 <img width="609" height="554" alt="Screenshot 2025-10-26 100122" src="https://github.com/user-attachments/assets/5d6d5fc7-0eb2-44b5-b3c7-f820db125a3e" />
 
 Gambar diatas hasil dari perubahan yang dilakukan.
+
 # Menu Keempat
 <img width="698" height="674" alt="image" src="https://github.com/user-attachments/assets/6cc17754-be51-493b-bc20-ceb7a7b8bbd4" />
 
 Pada menu keempat, admin dapat melakukan penghapusan layanan yang sudah terdaftar. Caranya, dengan memasukkan ID layanan yang ingin dihapus, kemudian sistem akan menampilkan notifikasi konfirmasi. Jika admin memilih ‘y’, maka layanan tersebut akan dihapus dan muncul pesan bahwa penghapusan berhasil. Namun, jika memilih ‘n’, maka proses penghapusan akan dibatalkan, seperti terlihat pada output di bawah ini.
 
 <img width="716" height="101" alt="image" src="https://github.com/user-attachments/assets/79ba6bd4-2741-4e42-a22b-78a7dc24bc41" />
+
 # Menu Kelima
 <img width="1119" height="535" alt="image" src="https://github.com/user-attachments/assets/5bb9b32f-1b6c-4b8a-9a54-54522a734f05" />
 
 Pada menu kelima, admin dapat melihat riwayat medis atau riwayat pemesanan layanan dari seluruh pasien. Data yang ditampilkan mencakup tanggal dan waktu pemesanan, nama pasien, jenis layanan yang digunakan, keluhan pasien, biaya layanan, serta status pemeriksaan, apakah dibatalkan, selesai, atau masih menunggu.
+
 # Menu Keenam
 <img width="1158" height="590" alt="image" src="https://github.com/user-attachments/assets/d63bedba-afa6-4305-954d-133203d36385" />
 
@@ -99,32 +102,33 @@ Setelah login sebagai pasien akan muncul beberapa menu sebagai pasien, diantaran
 # Menu Pertama
 <img width="632" height="513" alt="image" src="https://github.com/user-attachments/assets/93570886-7920-4c35-9053-1f5739b46244" />
 
-Pada menu pertama ini memperlihatkan daftar layanan yang ada di klinik mencakup nama layanan, biaya, serta status ketersediaannya apakah layanan tersebut masih aktif atau tidak tersedia.
+Pada menu pertama, sistem menampilkan daftar layanan klinik yang mencakup nama layanan, biaya, serta status ketersediaannya, yaitu apakah layanan tersebut masih aktif atau tidak tersedia.
 
 # Menu Kedua
 <img width="643" height="722" alt="image" src="https://github.com/user-attachments/assets/0c8b52ca-c70e-4da9-9e84-9b7ac6e89fea" />
 
-Pada menu kedua pasien bisa memesan layanan terlebih dahulu. Cara memesannya dengan memasukkan ID layanan yang ada di daftar layanan kemudian muncul biaya yang harus di bayarkan dan total saldo e-money. Setelah itu masukkan keluhan/gejala dan konfirmasi pemesanan pilih y/n jika pilih y maka transaksi berhasil jika pilih n maka pemesanan batal. dan akan muncul invoice pembayaran seperti gambar dibawah ini.
+Pada menu kedua, pasien dapat melakukan pemesanan layanan. Prosesnya dilakukan dengan memasukkan ID layanan yang terdapat pada daftar layanan. Setelah itu, sistem akan menampilkan biaya layanan dan total saldo e-money pasien. Selanjutnya, pasien diminta untuk memasukkan keluhan atau gejala, lalu melakukan konfirmasi pemesanan dengan memilih ‘y’ untuk melanjutkan atau ‘n’ untuk membatalkan. Jika memilih ‘y’, maka transaksi berhasil dan sistem akan menampilkan invoice pembayaran, seperti terlihat pada gambar di bawah ini.
 
 <img width="603" height="358" alt="image" src="https://github.com/user-attachments/assets/35dce526-790b-4f2f-b9f1-63f206ddf367" />
 
 # Menu Ketiga
 <img width="1078" height="406" alt="image" src="https://github.com/user-attachments/assets/79c983eb-d4aa-4b78-89b3-d2276d148bc0" />
 
-Pada menu ketiga pasien dapat melihat riwayat medis yang sudah dilakukan sebelumnya. Di menu ketiga ini pasien bisa melihat tanggal dan jam, nama pasien, layanan yang digunakan, keluhan, biaya, dan status.
+Pada menu ketiga, pasien dapat melihat riwayat medis atau riwayat layanan yang telah dilakukan sebelumnya. Informasi yang ditampilkan meliputi tanggal dan waktu pemeriksaan, nama pasien, jenis layanan yang digunakan, keluhan, biaya layanan, serta status pemeriksaan.
 
 # Menu Keempat
 <img width="929" height="746" alt="image" src="https://github.com/user-attachments/assets/0d51e0c4-6060-43a9-b7ee-ccb825900238" />
 
-Pada menu keempat pasien dapat melihat invoice pembayaran yang sudah di bayar sebelumnya dengan memasukkan no invoice lalu tekan enter dan akan muncul invoice pembayarannya.
+Pada menu keempat, pasien dapat melihat kembali invoice pembayaran yang telah dilakukan sebelumnya. Caranya dengan memasukkan nomor invoice, kemudian menekan Enter, maka sistem akan menampilkan rincian invoice pembayaran tersebut.
 
 # Menu Kelima
 <img width="707" height="359" alt="Screenshot 2025-10-26 170157" src="https://github.com/user-attachments/assets/b7026e25-f052-4c61-9945-80579cdade90" />
 
-Di menu kelima ini pasien bisa melakukan top up e-money. Apabila e-money tidak cukup maka tidak bisa membayar layanan yang dipesan. Saat melakukan top up akan muncul saldo sebelum top up dan masukkan jumlah saldo yang ingin di top up lalu tekan enter maka top up berhasil akan muncul jumlah saldo terbaru
+Pada menu kelima, pasien dapat melakukan top up e-money. Jika saldo e-money tidak mencukupi, maka pasien tidak dapat membayar layanan yang telah dipesan. Saat proses top up, sistem akan menampilkan saldo sebelum top up, kemudian pasien diminta untuk memasukkan jumlah saldo yang ingin ditambahkan. Setelah menekan Enter, proses top up akan dinyatakan berhasil, dan sistem akan menampilkan saldo e-money terbaru.
 
 # Menu Keenam
-
+<img width="462" height="394" alt="image" src="https://github.com/user-attachments/assets/40cdb7e4-c48b-4595-ab05-3b6747cd0210" />
+Pada menu ini, pasien dapat keluar dari sistem atau logout dari menu pasien, sehingga akan kembali ke halaman utama program.
 
 
 
