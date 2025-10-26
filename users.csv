@@ -1,0 +1,5 @@
+username,password,role,full_name,age,address,phone,e_money
+admin,admin123,admin,Administrator,,,,0
+aura,aura123,patient,aura,18,suwandi,0812345,1500000
+Diara,diara123,patient,diara glasys,18,samarinda,082252238904,49250000
+Farah,farah12345,patient,Farah,17,damanhuri,081256291051,50000
