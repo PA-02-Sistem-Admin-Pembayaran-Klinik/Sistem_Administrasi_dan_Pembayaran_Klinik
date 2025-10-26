@@ -27,6 +27,7 @@ Gambar diatas melakukan login sebagai admin dan langsung masuk ke dalam menu uta
 
 # Menu Output Admin
 <img width="546" height="241" alt="image" src="https://github.com/user-attachments/assets/f5d4d01d-f8ee-4b00-a26c-3235d45dccc7" />
+
 Ada beberapa menu yang ditampilkan apabila login sebagai admin, diantaranya yaitu:
 1. Lihat Daftar Layanan
 2. Tambah Layanan
@@ -38,10 +39,12 @@ Ada beberapa menu yang ditampilkan apabila login sebagai admin, diantaranya yait
 
 # Menu Pertama
 <img width="795" height="523" alt="image" src="https://github.com/user-attachments/assets/55a8a9ae-56a4-42f9-810e-8defb4d529f9" />
+
 Di menu pertama akan memperlihatkan layanan apa saja yang ada di klinik lengkap dengan biaya, dan status layanan apakah sedang tersedia atau tidak.
 
 # Menu Kedua
 <img width="423" height="375" alt="image" src="https://github.com/user-attachments/assets/491a38df-9109-4a56-89cb-729d453fd678" />
+
 Pada menu kedua admin bisa menambahkan daftar layanan yang ingin disediakan di klinik. Dengan hanya menambahkan nama layanan dan biaya atau harga yang di berikan untuk layanan baru lalu klik enter maka layanan berhasil ditambahkan pada daftar layanan di menu pertama seperti gambar dibawah.
 <img width="629" height="308" alt="image" src="https://github.com/user-attachments/assets/42a8d97b-c169-43c2-bbf7-bde1d5266b91" />
 
