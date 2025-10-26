@@ -54,7 +54,6 @@ Pada menu kedua admin bisa menambahkan daftar layanan yang ingin disediakan di k
 
 Di menu ketiga ini admin bisa mengedit layanan. Yang bisa diedit yaitu nama layanan, biaya, dan status layanan. Apabila diantara nama layanan baru, biaya baru, dan status layanan tidak ingin diubah bisa tekan enter saja. Jika layanan yang ada belum tersedia bisa memilih 0 untuk mengubah status dari tersedia menjadi tidak tersedia begitupun sebaliknya.
 <img width="802" height="207" alt="Screenshot 2025-10-26 100057" src="https://github.com/user-attachments/assets/24a4a445-8321-4b1e-9547-e012fe2cf0ef" />
-
 Seperti contoh diatas hanya mengedit bagian biaya saja. 
 
 <img width="609" height="554" alt="Screenshot 2025-10-26 100122" src="https://github.com/user-attachments/assets/5d6d5fc7-0eb2-44b5-b3c7-f820db125a3e" />
