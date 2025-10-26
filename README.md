@@ -46,5 +46,18 @@ Di menu pertama akan memperlihatkan layanan apa saja yang ada di klinik lengkap 
 <img width="423" height="375" alt="image" src="https://github.com/user-attachments/assets/491a38df-9109-4a56-89cb-729d453fd678" />
 
 Pada menu kedua admin bisa menambahkan daftar layanan yang ingin disediakan di klinik. Dengan hanya menambahkan nama layanan dan biaya atau harga yang di berikan untuk layanan baru lalu klik enter maka layanan berhasil ditambahkan pada daftar layanan di menu pertama seperti gambar dibawah.
+
 <img width="629" height="308" alt="image" src="https://github.com/user-attachments/assets/42a8d97b-c169-43c2-bbf7-bde1d5266b91" />
+
+# Menu Ketiga
+<img width="979" height="755" alt="Screenshot 2025-10-26 100022" src="https://github.com/user-attachments/assets/62c9b0d5-0919-4ab3-a0f3-642dc9f02aab" />
+
+Di menu ketiga ini admin bisa mengedit layanan. Yang bisa diedit yaitu nama layanan, biaya, dan status layanan. Apabila diantara nama layanan baru, biaya baru, dan status layanan tidak ingin diubah bisa tekan enter saja. Jika layanan yang ada belum tersedia bisa memilih 0 untuk mengubah status dari tersedia menjadi tidak tersedia begitupun sebaliknya.
+<img width="802" height="207" alt="Screenshot 2025-10-26 100057" src="https://github.com/user-attachments/assets/24a4a445-8321-4b1e-9547-e012fe2cf0ef" />
+
+Seperti contoh diatas hanya mengedit bagian biaya saja. 
+
+<img width="609" height="554" alt="Screenshot 2025-10-26 100122" src="https://github.com/user-attachments/assets/5d6d5fc7-0eb2-44b5-b3c7-f820db125a3e" />
+
+Gambar diatas hasil dari perubahan yang dilakukan.
 
