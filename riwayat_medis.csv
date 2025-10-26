@@ -1,0 +1,7 @@
+date,username,patient_name,service_id,service_name,price,symptoms,status,balance_before,balance_after
+2025-10-23 10:33:23,aura,aura,1,Konsultasi Umum,150000,demam,Selesai,1000000,850000
+2025-10-23 10:34:52,aura,aura,1,Konsultasi Umum,150000,Mati,Selesai,850000,700000
+2025-10-23 10:37:36,Diara,diara glasys,5,Medical Check-up,750000,darah,Selesai,50000000,49250000
+2025-10-24 10:54:44,aura,aura,4,Vaksinasi,300000,covid,Selesai,1500000,1200000
+2025-10-24 21:38:28,farah,Farah Maula,2,Pemeriksaan Gigi,200000,sakit gigi,Menunggu,250000,50000
+2025-10-26 17:03:58,Farah,Farah,5,Medical Check-up,600000,cek kesehatan,Selesai,1050000,450000

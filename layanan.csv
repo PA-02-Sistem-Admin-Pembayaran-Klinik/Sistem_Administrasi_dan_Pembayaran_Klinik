@@ -1,0 +1,6 @@
+id,name,price,availability
+1,Konsultasi Umum,150000,True
+2,Pemeriksaan Gigi,200000,True
+3,Tes Laboratorium,500000,True
+4,Vaksinasi,300000,True
+5,Medical Check-up,600000,True
