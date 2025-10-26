@@ -105,7 +105,26 @@ Pada menu pertama ini memperlihatkan daftar layanan yang ada di klinik mencakup 
 <img width="643" height="722" alt="image" src="https://github.com/user-attachments/assets/0c8b52ca-c70e-4da9-9e84-9b7ac6e89fea" />
 
 Pada menu kedua pasien bisa memesan layanan terlebih dahulu. Cara memesannya dengan memasukkan ID layanan yang ada di daftar layanan kemudian muncul biaya yang harus di bayarkan dan total saldo e-money. Setelah itu masukkan keluhan/gejala dan konfirmasi pemesanan pilih y/n jika pilih y maka transaksi berhasil jika pilih n maka pemesanan batal. dan akan muncul invoice pembayaran seperti gambar dibawah ini.
+
 <img width="603" height="358" alt="image" src="https://github.com/user-attachments/assets/35dce526-790b-4f2f-b9f1-63f206ddf367" />
+
+# Menu Ketiga
+<img width="1078" height="406" alt="image" src="https://github.com/user-attachments/assets/79c983eb-d4aa-4b78-89b3-d2276d148bc0" />
+
+Pada menu ketiga pasien dapat melihat riwayat medis yang sudah dilakukan sebelumnya. Di menu ketiga ini pasien bisa melihat tanggal dan jam, nama pasien, layanan yang digunakan, keluhan, biaya, dan status.
+
+# Menu Keempat
+<img width="929" height="746" alt="image" src="https://github.com/user-attachments/assets/0d51e0c4-6060-43a9-b7ee-ccb825900238" />
+
+Pada menu keempat pasien dapat melihat invoice pembayaran yang sudah di bayar sebelumnya dengan memasukkan no invoice lalu tekan enter dan akan muncul invoice pembayarannya.
+
+# Menu Kelima
+<img width="707" height="359" alt="Screenshot 2025-10-26 170157" src="https://github.com/user-attachments/assets/b7026e25-f052-4c61-9945-80579cdade90" />
+
+Di menu kelima ini pasien bisa melakukan top up e-money. Apabila e-money tidak cukup maka tidak bisa membayar layanan yang dipesan. Saat melakukan top up akan muncul saldo sebelum top up dan masukkan jumlah saldo yang ingin di top up lalu tekan enter maka top up berhasil akan muncul jumlah saldo terbaru
+
+# Menu Keenam
+
 
 
 
