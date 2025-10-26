@@ -85,4 +85,4 @@ Pada menu keenam, admin dapat melakukan pembaruan status pemeriksaan pasien. Pro
 Pada menu ketujuh, admin dapat melakukan logout dari sistem. Setelah logout, admin akan kembali ke menu utama program atau tampilan awal sistem.
 
 
-
+# Menu Output Pasien
