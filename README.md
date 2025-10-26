@@ -5,7 +5,17 @@ Nama Anggota :
 3. Farah Hikmatul Maula (2509116099)
 
 # Flowchart
-![FLOWCHART PA DDP](https://github.com/user-attachments/assets/a008429f-6457-445c-9f76-4673ad82cb10)
+![f PA (1)-Menu Awal](https://github.com/user-attachments/assets/00af151c-21cf-49bb-96ad-b0df98e3179e)
+
+Flowchart Program Menu Awal
+
+![f PA (1)-Menu Admin](https://github.com/user-attachments/assets/5c898683-e318-49e4-bc0e-01e6f272478e)
+
+Flowchart Program Menu Admin 
+
+![f PA (1)-Menu Pasien](https://github.com/user-attachments/assets/847d5ac3-c6ed-4d9d-aee0-adcf9f0602ae)
+
+Flpwchart Program Menu Pasien
 
 # OUTPUT
 <img width="473" height="226" alt="image" src="https://github.com/user-attachments/assets/e0632c61-f313-4f64-9b88-a2abd3645c93" />
