@@ -23,7 +23,7 @@ Setelah proses registrasi selesai, pasien dapat login menggunakan akun yang tela
 
 <img width="760" height="525" alt="image" src="https://github.com/user-attachments/assets/73d42bf8-464f-433a-96e9-6427f19351d6" />
 
-Gambar diatas melakukan login sebagai admin dan langsung masuk ke dalam menu utama sebagai admin.
+Pada gambar diatas melakukan login sebagai admin dan langsung masuk ke dalam menu utama sebagai admin.
 
 # Menu Output Admin
 <img width="546" height="241" alt="image" src="https://github.com/user-attachments/assets/f5d4d01d-f8ee-4b00-a26c-3235d45dccc7" />
@@ -86,3 +86,26 @@ Pada menu ketujuh, admin dapat melakukan logout dari sistem. Setelah logout, adm
 
 
 # Menu Output Pasien
+<img width="524" height="511" alt="Screenshot 2025-10-25 233618" src="https://github.com/user-attachments/assets/8f14129f-b631-40a6-b5ae-60a0f32756f7" />
+
+Setelah login sebagai pasien akan muncul beberapa menu sebagai pasien, diantaranya yaitu:
+1. Lihat Daftar Layanan
+2. Pesan Layanan
+3. Lihat Riwayat Medis
+4. Lihat Invoice
+5. Top Up E-Money
+6. Logout
+
+# Menu Pertama
+<img width="632" height="513" alt="image" src="https://github.com/user-attachments/assets/93570886-7920-4c35-9053-1f5739b46244" />
+
+Pada menu pertama ini memperlihatkan daftar layanan yang ada di klinik mencakup nama layanan, biaya, serta status ketersediaannya apakah layanan tersebut masih aktif atau tidak tersedia.
+
+# Menu Kedua
+<img width="643" height="722" alt="image" src="https://github.com/user-attachments/assets/0c8b52ca-c70e-4da9-9e84-9b7ac6e89fea" />
+
+Pada menu kedua pasien bisa memesan layanan terlebih dahulu. Cara memesannya dengan memasukkan ID layanan yang ada di daftar layanan kemudian muncul biaya yang harus di bayarkan dan total saldo e-money. Setelah itu masukkan keluhan/gejala dan konfirmasi pemesanan pilih y/n jika pilih y maka transaksi berhasil jika pilih n maka pemesanan batal. dan akan muncul invoice pembayaran seperti gambar dibawah ini.
+<img width="603" height="358" alt="image" src="https://github.com/user-attachments/assets/35dce526-790b-4f2f-b9f1-63f206ddf367" />
+
+
+
