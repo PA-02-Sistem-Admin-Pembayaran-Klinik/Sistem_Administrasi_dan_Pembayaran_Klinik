@@ -40,19 +40,18 @@ Ada beberapa menu yang ditampilkan apabila login sebagai admin, diantaranya yait
 # Menu Pertama
 <img width="795" height="523" alt="image" src="https://github.com/user-attachments/assets/55a8a9ae-56a4-42f9-810e-8defb4d529f9" />
 
-Di menu pertama akan memperlihatkan layanan apa saja yang ada di klinik lengkap dengan biaya, dan status layanan apakah sedang tersedia atau tidak.
+Pada menu pertama, sistem menampilkan daftar layanan yang tersedia di klinik beserta biaya masing-masing layanan, serta status ketersediaannya apakah layanan tersebut masih aktif atau tidak tersedia.
 
 # Menu Kedua
 <img width="423" height="375" alt="image" src="https://github.com/user-attachments/assets/491a38df-9109-4a56-89cb-729d453fd678" />
 
-Pada menu kedua admin bisa menambahkan daftar layanan yang ingin disediakan di klinik. Dengan hanya menambahkan nama layanan dan biaya atau harga yang di berikan untuk layanan baru lalu klik enter maka layanan berhasil ditambahkan pada daftar layanan di menu pertama seperti gambar dibawah.
-
+Pada menu kedua, admin dapat menambahkan layanan baru yang akan disediakan di klinik. Cukup dengan memasukkan nama layanan serta biaya atau harga yang ditetapkan untuk layanan tersebut, lalu menekan tombol Enter, maka layanan baru akan otomatis tersimpan dan muncul pada daftar layanan di menu pertama, seperti terlihat pada gambar di bawah.
 <img width="629" height="308" alt="image" src="https://github.com/user-attachments/assets/42a8d97b-c169-43c2-bbf7-bde1d5266b91" />
 
 # Menu Ketiga
 <img width="979" height="755" alt="Screenshot 2025-10-26 100022" src="https://github.com/user-attachments/assets/62c9b0d5-0919-4ab3-a0f3-642dc9f02aab" />
 
-Di menu ketiga ini admin bisa mengedit layanan. Yang bisa diedit yaitu nama layanan, biaya, dan status layanan. Apabila diantara nama layanan baru, biaya baru, dan status layanan tidak ingin diubah bisa tekan enter saja. Jika layanan yang ada belum tersedia bisa memilih 0 untuk mengubah status dari tersedia menjadi tidak tersedia begitupun sebaliknya seperti output dibawah.
+Pada menu ketiga, admin memiliki akses untuk mengedit data layanan yang sudah ada. Bagian yang dapat diperbarui meliputi nama layanan, biaya, dan status ketersediaan layanan. Jika ada bagian yang tidak ingin diubah, admin cukup menekan Enter untuk melewatinya. Selain itu, apabila suatu layanan belum tersedia, admin dapat memasukkan 0 untuk mengubah statusnya menjadi tidak tersedia, atau sebaliknya, sebagaimana terlihat pada output di bawah ini.
 
 <img width="664" height="305" alt="Screenshot 2025-10-26 100253" src="https://github.com/user-attachments/assets/3657cf6f-35df-41f5-9aaa-5eea77b31268" />
 
@@ -66,20 +65,22 @@ Gambar diatas hasil dari perubahan yang dilakukan.
 # Menu Keempat
 <img width="698" height="674" alt="image" src="https://github.com/user-attachments/assets/6cc17754-be51-493b-bc20-ceb7a7b8bbd4" />
 
-Pada menu keempat admin bisa menghapus layanan yang ada. Cukup dengan memasukkan ID yang ingin dihapus dan akan muncul notifikasi apakah yakin ingin menghapus, jika yakin ketik y dan jika tidak ketik n. Apabila ketik y maka akan muncul notif bahwa layanan berhasil dihapus dan jika ketik n maka muncul notif penghapusan dibatalkan seperti output dibawah ini.
+Pada menu keempat, admin dapat melakukan penghapusan layanan yang sudah terdaftar. Caranya, dengan memasukkan ID layanan yang ingin dihapus, kemudian sistem akan menampilkan notifikasi konfirmasi. Jika admin memilih ‘y’, maka layanan tersebut akan dihapus dan muncul pesan bahwa penghapusan berhasil. Namun, jika memilih ‘n’, maka proses penghapusan akan dibatalkan, seperti terlihat pada output di bawah ini.
 <img width="716" height="101" alt="image" src="https://github.com/user-attachments/assets/79ba6bd4-2741-4e42-a22b-78a7dc24bc41" />
 # Menu Kelima
 <img width="1119" height="535" alt="image" src="https://github.com/user-attachments/assets/5bb9b32f-1b6c-4b8a-9a54-54522a734f05" />
 
-Pada menu kelima admin dapat melihat riwayat medis/riwayat pemesanan layanan semua pasien dengan menunjukkan tanggal dan waktu pemesanan, nama pasien, layanan yang digunakan, keluhan, biaya layanan, dan status dari pemeriksaan apakah pemesanan layanan dibatalkan, selesai atau masih menunggu.
+Pada menu kelima, admin dapat melihat riwayat medis atau riwayat pemesanan layanan dari seluruh pasien. Data yang ditampilkan mencakup tanggal dan waktu pemesanan, nama pasien, jenis layanan yang digunakan, keluhan pasien, biaya layanan, serta status pemeriksaan, apakah dibatalkan, selesai, atau masih menunggu.
 # Menu Keenam
 <img width="1158" height="590" alt="image" src="https://github.com/user-attachments/assets/d63bedba-afa6-4305-954d-133203d36385" />
-Di menu keenam ini admin bisa melakukan update status pemeriksaan pasien. Cara yang dilakukan dengan memasukkan no record yang ingin di perbarui dan memasukkan status baru dengan memilih selesai/batal/menunggu. Pada output diatas memasukkan status menunggu dan klik enter maka status berhasil diperbarui.
+
+Pada menu keenam, admin dapat melakukan pembaruan status pemeriksaan pasien. Prosesnya dilakukan dengan memasukkan nomor record yang ingin diperbarui, kemudian memilih status baru dari opsi selesai, batal, atau menunggu. Pada output di atas, setelah admin memilih status menunggu dan menekan Enter, sistem menampilkan notifikasi bahwa status berhasil diperbarui.
+
 <img width="1106" height="268" alt="image" src="https://github.com/user-attachments/assets/04a07ba5-efbc-4b75-b195-078a76982d3d" />
 # Menu Ketujuh
 <img width="440" height="418" alt="image" src="https://github.com/user-attachments/assets/2a5f1103-c993-40e8-9dae-0e693db0d58a" />
 
-Pada menu ketujuh ini admin bisa logout dari sistem dan kembali ke sistem utama program.
+Pada menu ketujuh, admin dapat melakukan logout dari sistem. Setelah logout, admin akan kembali ke menu utama program atau tampilan awal sistem.
 
 
 
