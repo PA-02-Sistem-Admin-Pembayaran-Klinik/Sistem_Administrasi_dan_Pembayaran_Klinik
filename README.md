@@ -18,6 +18,9 @@ Apabila pasien belum pernah membuat akun sebelumnya harus melakukan registrasi t
 Pada gambar output diatas pasien melakukan registrasi. Saat melakukan registrasi harus membuat username dengan batas 3 sampai 20 karakter untuk melakukan login, membuat dan memasukkan password, memasukkan nama lengkap pasien, usia, alamat tinggal, no telepon, saldo awal e-money dan tekan enter maka registrasi berhasil.
 
 <img width="524" height="511" alt="Screenshot 2025-10-25 233618" src="https://github.com/user-attachments/assets/91d646e9-8f08-4323-a280-02b6ae8c3961" />
+
 Setelah melakukan registrasi sebagai pasien akam melakukan login dengan menggunakan akun yang sudah dibuat dengan memasukkan username dan password dan langsung masuk ke dalam menu utama sebagai pasien.
+
 <img width="760" height="525" alt="image" src="https://github.com/user-attachments/assets/73d42bf8-464f-433a-96e9-6427f19351d6" />
+
 Gambar diatas melakukan login sebagai admin dan langsung masuk ke dalam menu utama sebagai admin.
