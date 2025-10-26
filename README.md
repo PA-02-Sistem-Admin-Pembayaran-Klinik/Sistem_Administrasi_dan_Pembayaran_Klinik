@@ -66,6 +66,7 @@ Gambar diatas hasil dari perubahan yang dilakukan.
 <img width="698" height="674" alt="image" src="https://github.com/user-attachments/assets/6cc17754-be51-493b-bc20-ceb7a7b8bbd4" />
 
 Pada menu keempat, admin dapat melakukan penghapusan layanan yang sudah terdaftar. Caranya, dengan memasukkan ID layanan yang ingin dihapus, kemudian sistem akan menampilkan notifikasi konfirmasi. Jika admin memilih ‘y’, maka layanan tersebut akan dihapus dan muncul pesan bahwa penghapusan berhasil. Namun, jika memilih ‘n’, maka proses penghapusan akan dibatalkan, seperti terlihat pada output di bawah ini.
+
 <img width="716" height="101" alt="image" src="https://github.com/user-attachments/assets/79ba6bd4-2741-4e42-a22b-78a7dc24bc41" />
 # Menu Kelima
 <img width="1119" height="535" alt="image" src="https://github.com/user-attachments/assets/5bb9b32f-1b6c-4b8a-9a54-54522a734f05" />
@@ -77,6 +78,7 @@ Pada menu kelima, admin dapat melihat riwayat medis atau riwayat pemesanan layan
 Pada menu keenam, admin dapat melakukan pembaruan status pemeriksaan pasien. Prosesnya dilakukan dengan memasukkan nomor record yang ingin diperbarui, kemudian memilih status baru dari opsi selesai, batal, atau menunggu. Pada output di atas, setelah admin memilih status menunggu dan menekan Enter, sistem menampilkan notifikasi bahwa status berhasil diperbarui.
 
 <img width="1106" height="268" alt="image" src="https://github.com/user-attachments/assets/04a07ba5-efbc-4b75-b195-078a76982d3d" />
+
 # Menu Ketujuh
 <img width="440" height="418" alt="image" src="https://github.com/user-attachments/assets/2a5f1103-c993-40e8-9dae-0e693db0d58a" />
 
