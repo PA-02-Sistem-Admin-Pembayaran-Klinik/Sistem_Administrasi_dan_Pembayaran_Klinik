@@ -133,6 +133,7 @@ Pada menu kelima, pasien dapat melakukan top up e-money. Jika saldo e-money tida
 
 # Menu Keenam
 <img width="462" height="394" alt="image" src="https://github.com/user-attachments/assets/40cdb7e4-c48b-4595-ab05-3b6747cd0210" />
+
 Pada menu ini, pasien dapat keluar dari sistem atau logout dari menu pasien, sehingga akan kembali ke halaman utama program.
 
 
