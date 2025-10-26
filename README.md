@@ -25,6 +25,11 @@ Setelah proses registrasi selesai, pasien dapat login menggunakan akun yang tela
 
 Pada gambar diatas melakukan login sebagai admin dan langsung masuk ke dalam menu utama sebagai admin.
 
+<img width="544" height="187" alt="image" src="https://github.com/user-attachments/assets/756bcb57-83cc-4b94-9fe6-fc79bead2275" />
+
+Apabila ingin keluar dari sistem utama maka bisa memilih menu ke 3 yaitu menu keluar seperti pada gambar diatas.
+
+
 # Menu Output Admin
 <img width="546" height="241" alt="image" src="https://github.com/user-attachments/assets/f5d4d01d-f8ee-4b00-a26c-3235d45dccc7" />
 
